@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/barbaramani">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=barbaramani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaramani&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_rq5L5swf.png">
+  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_rq5L5swf.png">
 </div>
 
 ##
