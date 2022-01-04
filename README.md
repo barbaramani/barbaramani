@@ -1,11 +1,24 @@
-### Hi there 👋
+### 👋 Olá, meu nome é Barbara Mani.
+##
+**Sobre mim**
 
+:computer: Sou formada em Ciências Atuariais e entusiasta da tecnologia.
+
+🌱 Estudo Python 
+
+:rocket: Tenho interesse em trabalhar com análise da dados utilizando Python, Estatística, Power Bi, entre outras ferramentas.
+
+
+
+
+###
 <!--
 **barbaramani/barbaramani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on Sou formada em Ciências Atuariais
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+##
 <div align="center">
   <a href="https://github.com/barbaramani">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=barbaramani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
