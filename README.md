@@ -4,9 +4,10 @@
 
 :computer: Sou formada em Ciências Atuariais e entusiasta da tecnologia.
 
-🌱 Estudo Python 
+🌱 Análise de Dados | Python | Excel | SQL | Estatística | Pensamento Crítico | 
 
-:rocket: Tenho interesse em trabalhar com análise da dados utilizando Python, Estatística, Power Bi, entre outras ferramentas.
+:rocket: Faço parte de comunidades para troca de conhecimentos e experiências, e ficar por dentro de tudo está relacionado à área de dados. Sou curiosa, gosto de solucionar problemas e obter insights.
+
 
 
 
