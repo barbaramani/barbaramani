@@ -8,7 +8,14 @@
 
 :rocket: Faço parte de comunidades para troca de conhecimentos e experiências, e ficar por dentro de tudo está relacionado à área de dados. Sou curiosa, gosto de solucionar problemas e obter insights.
 
-
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaramani&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=barbaramani&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
 
 
 
@@ -29,13 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
-<div align="center">
-  <a href="https://github.com/barbaramani">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=barbaramani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaramani&layout=compact&langs_count=7&theme=dracula"/>
-  
-</div>
+
 
 ##
   
